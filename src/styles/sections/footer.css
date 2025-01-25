@@ -1,0 +1,12 @@
+.footer {
+  margin-top: 137px;
+  text-align: center;
+  background-color:#F6F6F6;
+  padding: 20px 0;
+}
+.footer__links {
+  display: flex;
+  flex-direction: row;
+  gap: 15px;
+  justify-content: center;
+}

@@ -1,0 +1,26 @@
+.contacts {
+  padding: 120px 0 20px;
+  text-align: center;
+}
+.contacts__page {
+  font-size: 18px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.btn {
+  margin: 44px 0 92px;
+  background-color: black;
+  color: whitesmoke;
+  padding: 10px 20px;
+  border-radius: 20px;
+}
+
+.contacts__svg {
+  display: flex;
+  gap: 60px;
+  justify-content: center;
+}
+.title {
+  margin-bottom: 20px;
+}

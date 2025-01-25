@@ -1,0 +1,21 @@
+.hero__block {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.hero__name {
+  font-size: 47.339px;
+  font-weight: 700;
+  max-width: 120px;
+}
+
+.hero__date {
+  font-size: 18px;
+  width: 155.646px;
+}
+.hero {
+  padding: 40px 0 105px;
+}
+.hero__img{
+  margin-top: 30px;
+}
